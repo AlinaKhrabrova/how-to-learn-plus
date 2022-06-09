@@ -1,0 +1,9 @@
+.khan__buy-link {
+  transition: opacity 1s ease;
+  font-weight: normal;
+  text-decoration: none;
+  font-family: "Inter", "Arial", sans-serif;
+  color: #2f80ed;
+  line-height: 42px;
+  font-size: 30px;
+}

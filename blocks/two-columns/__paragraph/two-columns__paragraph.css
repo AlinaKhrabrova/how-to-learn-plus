@@ -1,0 +1,15 @@
+.two-columns__paragraph {
+  margin: 0;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  font-family: "Inter", "Arial", sans-serif;
+}
+
+.two-columns__paragraph:last-of-type {
+  margin: 0;
+}
+
+.two-columns__paragraph_margin {
+  margin-bottom: 30px;
+}

@@ -1,9 +1,12 @@
 .logo__place_footer {
   width: 183px;
   height: 35px;
-  display: flexbox;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
   color: white;
+}
+
+.logo__place_footer:hover {
+  opacity: 0.5;
 }

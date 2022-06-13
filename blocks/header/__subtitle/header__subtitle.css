@@ -1,4 +1,6 @@
 .header__subtitle {
+  margin: 0;
+  font-family: "Inter", "Arial", sans-serif;
   width: 388px;
   position: absolute;
   bottom: 30px;
